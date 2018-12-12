@@ -1,5 +1,5 @@
 # Nanitor
-#### This script can help you to install the nanitor agent (64&32) and the necessary packages in RedHat distribution .
+#### This script can help you to install the nanitor agent (64&32) and the necessary packages in RedHat distribution easily .
 # Notes 
   ###### Auther AbedAlqaderSwedan 
   ###### Usage ./script 192.168.1.1 nanitor.bank.com
